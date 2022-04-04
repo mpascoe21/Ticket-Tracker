@@ -5,12 +5,16 @@
 }
 
 body {
+  height: 100vh;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background: linear-gradient(180deg, #64dfdf, #5ae2de, #50e6dd, #47e9db, #3decd8, #34efd5, #2df2d1, #28f5cc, #26f8c7, #29fac1, #2ffdba, #38ffb3); */
+
+  background: linear-gradient(150deg, #64dfdf, #f7deff);
 }
 
 code {

@@ -13,8 +13,8 @@ const EmployeeCard = (props) => {
     <div className={styles.employeeCard}>
       {/* <p>employee card working</p> */}
       
-      <p className={styles.name}>{name}</p>
-      <p className={styles.role}>{role}</p>      
+      <p data-testid='name' className={styles.name}>{name}</p>
+      <p data-testid='role' className={styles.role}>{role}</p>      
       <Counter />
     </div>
   )

@@ -10,6 +10,8 @@ As an employee, to keep count of all the tickets I have completed, so that I can
 
 As an employee, to keep track of the number of tickets my coworkers have completed, so that I can compare the number of tickets we complete.
 
-### You can view the project [here](https://ticket-tracker-af832.web.app)
+### 🌐 Check out the project [here](https://ticket-tracker-af832.web.app)
+
+<br>
 
 ![ticket tracker](./src/ticket-tracker.png)

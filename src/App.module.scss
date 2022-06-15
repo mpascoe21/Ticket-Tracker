@@ -1,6 +1,5 @@
 .app {
   text-align: center;
-  //border: 2px solid red;
 
   .header {
     color: rgb(38, 57, 77);
@@ -10,11 +9,11 @@
   }
 
   .team {
+    margin: 10px;
     display: grid;
     grid-template-columns: repeat(auto-fill, 175px);
     justify-content: center;
     gap: 30px;      
-    //margin: 20px;    
   }
 }
 
